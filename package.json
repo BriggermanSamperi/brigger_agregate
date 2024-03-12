@@ -1,0 +1,26 @@
+{
+  "name": "brigger_agregate",
+  "version": "1.0.0",
+  "description": "Avg_Up computes averages effortlessly, providing quick and efficient mean calculations for diverse data sets, ensuring accuracy and reliability in your numerical analyses.",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "brigger_agregate": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BriggermanSamperi/brigger_agregate.git"
+  },
+  "homepage": "https://github.com/BriggermanSamperi/brigger_agregate/blob/main/README.md",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "BriggermanSamperi",
+  "license": "MIT"
+}
